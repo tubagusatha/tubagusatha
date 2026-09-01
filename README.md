@@ -303,4 +303,4 @@ code • learn • build • repeat
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/> </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/> </div>"
