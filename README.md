@@ -88,10 +88,10 @@ I don't use every technology here every day.
 
 Some are things I work with regularly, some I've used in projects, and some are technologies I'm still exploring.
 
-### 💻 languages
+### 💻 Languages & Technologies
+
 <table>
   <tr>
-    <!-- Programming Languages -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -116,10 +116,13 @@ Some are things I work with regularly, some I've used in projects, and some are 
       <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
       <br>Dart
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Luau" />
+      <br>Luau
+    </td>
   </tr>
 
   <tr>
-    <!-- Frameworks -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
@@ -141,13 +144,16 @@ Some are things I work with regularly, some I've used in projects, and some are 
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-      <br>Android Studio
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+      <br>Express.js
     </td>
   </tr>
 
   <tr>
-    <!-- Databases -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
@@ -172,38 +178,13 @@ Some are things I work with regularly, some I've used in projects, and some are 
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
-  </tr>
-
-  <tr>
-    <!-- Backend & API -->
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
-      <br>NPM
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
-      <br>Express.js
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ngrok" width="48" height="48" alt="Ngrok" />
-      <br>Ngrok
-    </td>
   </tr>
 
   <tr>
-    <!-- DevOps & Tools -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -228,21 +209,32 @@ Some are things I work with regularly, some I've used in projects, and some are 
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+      <br>Android Studio
+    </td>
   </tr>
 
   <tr>
-    <!-- Development Tools -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
       <br>Vite
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
+      <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
+      <br>NPM
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=telegram" width="48" height="48" alt="Telegram" />
-      <br>Telegram
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ngrok" width="48" height="48" alt="Ngrok" />
+      <br>Ngrok
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
@@ -252,17 +244,16 @@ Some are things I work with regularly, some I've used in projects, and some are 
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
       <br>GitHub Actions
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
       <br>Webpack
     </td>
-  </tr>
-
-  <tr>
-    <!-- Roblox Development -->
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Luau" />
-      <br>Luau
+      <img src="https://skillicons.dev/icons?i=telegram" width="48" height="48" alt="Telegram" />
+      <br>Telegram Bot
     </td>
     <td align="center" width="96">
       <img src="https://www.roblox.com/favicon.ico" width="48" height="48" alt="Roblox" />
@@ -270,6 +261,7 @@ Some are things I work with regularly, some I've used in projects, and some are 
     </td>
   </tr>
 </table>
+
 
 ### 🌐 web
 
