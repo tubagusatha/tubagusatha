@@ -1,127 +1,384 @@
-<!-- ========================= -->
-<!--        INTRO SECTION      -->
-<!-- ========================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Tubagus%20Athalla&fontSize=55&fontAlignY=38&desc=Developer%20%7C%20Tech%20Explorer%20%7C%20Builder&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=TB%20%2F%20ATHALLA&fontSize=55&fontColor=ffffff&animation=fadeIn&color=gradient"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Athalla+%F0%9F%91%8B;I+build+things+for+the+web.;Laravel+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind;Sometimes+mobile.+Sometimes+backend.;Always+learning+something+new." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Laravel+%2B+JavaScript+%2B+Tailwind;Mobile+Developer+%7C+Kotlin+%2B+Flutter;I+build+things%2C+break+things%2C+then+fix+them.;Welcome+to+my+little+corner+of+GitHub."/>
 
 <br><br>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME?tab=followers">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827"/>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7C3AED&label=VISITORS"/>
+
+</div>
+
+---
+
+# 👋 hey, i'm athalla
+
+I'm **Tubagus Athalla Nibras Islamy** — but most people just call me **TB**.
+
+I'm a developer who likes making things from scratch, especially when an idea starts with:
+
+> *"kayaknya bisa dibikin deh..."*
+
+My main playground is **web development**, but I've also spent time building mobile apps, working with databases, connecting APIs, creating bots, and experimenting with different technologies.
+
+I don't really like staying in one stack for too long.
+
+If something looks interesting, I'll probably try to build it.
+
+---
+
+# 🧭 a little about me
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 education
+
+**CCIT FTUI**
+Information Technology
+
+**Politeknik Negeri Jakarta**
+
+Previously studied at:
+
+**SMK IDN Boarding School**
+Pamijahan, Bogor
+
+</td>
+
+<td width="50%">
+
+### 🧑‍💻 what i do
+
+* Web Development
+* Backend Development
+* Frontend Development
+* Mobile Development
+* Database Development
+* API Integration
+* UI Implementation
+* Automation & Bot Integration
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ my tech stack
+
+I don't use every technology here every day.
+
+Some are things I work with regularly, some I've used in projects, and some are technologies I'm still exploring.
+
+### 💻 languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin,dart&theme=dark"/>
+</p>
+
+### 🌐 web
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,nodejs,vite&theme=dark"/>
+</p>
+
+### 📱 mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio,dart&theme=dark"/>
+</p>
+
+### 🗄️ database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+</p>
+
+### 🔧 tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
+</p>
+
+---
+
+# 🚀 things i've built
+
+Not everything I've built is here.
+
+These are some projects that represent the kind of things I like working on.
+
+## 🛒 Pinalti Company
+
+**E-commerce platform**
+
+A Laravel-based e-commerce project with a focus on building the complete flow from backend to interface.
+
+```text
+Laravel
+PHP
+MySQL
+Tailwind CSS
+```
+
+Things I worked with:
+
+* Product management
+* Database structure
+* Backend logic
+* Authentication
+* Responsive UI
+* E-commerce functionality
+
+---
+
+## 🎓 Student Attendance System
+
+**Laravel + Telegram Bot**
+
+An attendance system designed to connect a web application with Telegram.
+
+```text
+Laravel
+MySQL
+Telegram Bot
+API Integration
+```
+
+The interesting part wasn't just creating the attendance page.
+
+It was connecting the system with another platform so attendance information could actually be delivered automatically.
+
+---
+
+## 📱 MuslimPedia
+
+**Android application**
+
+A mobile application built with Kotlin while exploring Android development.
+
+```text
+Kotlin
+Android Studio
+```
+
+---
+
+## 📖 Quran App
+
+**Flutter mobile application**
+
+A Quran application built while learning and experimenting with Flutter.
+
+```text
+Flutter
+Dart
+API
+Mobile UI
+```
+
+---
+
+## 🌐 Datalistsiswa
+
+**Student data management system**
+
+A Laravel-based backend project for managing student-related data.
+
+```text
+Laravel
+PHP
+MySQL
+Bootstrap
+```
+
+---
+
+## ⚡ Futurix
+
+A frontend project where I experimented with modern interfaces and visual design.
+
+```text
+HTML
+CSS
+JavaScript
+```
+
+---
+
+# 🧠 beyond coding
+
+Coding isn't the only thing I spend time on.
+
+I've also worked on things involving:
+
+```text
+🤖 Artificial Intelligence
+🔐 Information Security
+🌐 Government / public-service websites
+📱 Mobile applications
+🤖 Telegram automation
+🎨 UI implementation
+🗄️ Database systems
+```
+
+I'm especially interested in the point where different technologies start connecting with each other.
+
+---
+
+# 🏆 experiences & achievements
+
+### 👨‍🏫 Mentor / Trainer
+
+I've had experience as a **mentor/trainer at Al Ashr School**, helping others learn and understand technology.
+
+Teaching someone else is honestly a different kind of challenge.
+
+You don't just need to know the answer.
+
+You need to explain *why* the answer works.
+
+---
+
+### 🥇 NoSec A+
+
+**Gold Medal — NoSec A+**
+
+One of the achievements I'm proud of from my journey in technology and information security.
+
+---
+
+### 🌐 Google Developer Groups
+
+I've also participated in **GDG-related activities/events**, giving me opportunities to see how developers learn, share knowledge, and build communities outside the classroom.
+
+---
+
+### 📜 Dicoding
+
+I've completed multiple learning paths and certifications through **Dicoding**, covering different areas of software development.
+
+---
+
+# 🌍 outside the terminal
+
+I also really enjoy **traveling**.
+
+I've had the opportunity to visit multiple countries and experience places that are completely different from my everyday environment.
+
+Somewhere between writing code and traveling, I realized something:
+
+> building software and traveling actually have something in common.
+
+You never really know everything that's ahead.
+
+You just keep going.
+
+---
+
+# 📊 github activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA"/>
+
+<br><br>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA"/>
+
+</div>
+
+---
+
+# 📈 contribution graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 apparently, i feed snakes with commits
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎯 currently
+
+```text
+learning       → new things
+building       → web & mobile projects
+exploring      → backend systems
+improving      → UI & system architecture
+experimenting  → whatever looks interesting
+```
+
+I don't have a perfectly defined roadmap.
+
+And honestly, I kind of like it that way.
+
+---
+
+# 📫 let's connect
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
+<br>
 
-<!-- ========================= -->
-<!--          ABOUT ME         -->
-<!-- ========================= -->
-
-## 👋 hey there
-
-I'm **Athalla** — I enjoy turning ideas into things people can actually use.
-
-Most of the time you'll find me working with **web development**, exploring backend systems, experimenting with UI, or randomly starting another side project because I thought:
-
-> “this would be cool if it actually existed.”
-
-I like interfaces that feel clean, code that makes sense when I open it again three months later, and projects that teach me something new.
-
-```js
-const athalla = {
-    focus: ["Web Development", "Backend", "Mobile"],
-    currentlyUsing: ["Laravel", "JavaScript", "Tailwind CSS"],
-    database: ["MySQL", "MariaDB"],
-    mobileStuff: ["Kotlin", "Flutter"],
-    learning: "whatever looks interesting this week",
-    coffee: true
-};
-<br> <!-- ========================= --> <!-- TECH STACK --> <!-- ========================= -->
-⚡ stuff I work with
 <div align="center">
-languages
-<img src="https://skillicons.dev/icons?i=js,php,java,kotlin,dart,html,css&theme=dark" />
+
+### thanks for scrolling this far 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=see+you+in+the+next+commit.;keep+building.;keep+learning."/>
 
 <br><br>
 
-frameworks & tools
-<img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,flutter,nodejs,vite&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient"/>
 
-<br><br>
-
-database & workspace
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,androidstudio,figma&theme=dark" /> </div> <br> <!-- ========================= --> <!-- PROJECTS --> <!-- ========================= -->
-🚀 things I've built
-<table> <tr> <td width="50%">
-🛒 Pinalti Company
-
-An e-commerce project built with Laravel.
-
-inside
-
-Laravel
-MySQL
-Tailwind CSS
-authentication
-product management
-shopping system
-<a href="YOUR_PROJECT_LINK"> <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%">
-🎓 Student Attendance
-
-A student attendance system connected to a Telegram bot.
-
-inside
-
-Laravel
-Telegram Bot
-MySQL
-automated attendance
-backend integration
-<a href="YOUR_PROJECT_LINK"> <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> <tr> <td width="50%">
-🤲 MuslimPedia
-
-Android application focused on useful Islamic content.
-
-built with
-
-Kotlin
-Android Studio
-modern Android UI
-<a href="YOUR_PROJECT_LINK"> <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%">
-📖 Quran App
-
-A mobile Quran application built while exploring Flutter.
-
-built with
-
-Flutter
-Dart
-API integration
-mobile UI
-<a href="YOUR_PROJECT_LINK"> <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> </table> <div align="center"> <a href="https://github.com/YOUR_USERNAME?tab=repositories"> <img src="https://img.shields.io/badge/SEE_ALL_PROJECTS-111827?style=for-the-badge&logo=github"/> </a> </div> <br> <!-- ========================= --> <!-- GITHUB STATS --> <!-- ========================= -->
-📊 github things
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/> <br> <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117"/> </div> <br> <!-- ========================= --> <!-- ACTIVITY GRAPH --> <!-- ========================= -->
-📈 what I've been up to
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&area=true&hide_border=true"/> </div> <br> <!-- ========================= --> <!-- CONTRIBUTIONS --> <!-- ========================= -->
-🐍 contributions
-<div align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/> </div> <br> <!-- ========================= --> <!-- RANDOM QUOTE --> <!-- ========================= -->
-💭 tiny reminder
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </div> <br> <!-- ========================= --> <!-- CONNECT --> <!-- ========================= -->
-🌐 find me somewhere else
-<div align="center"> <a href="https://instagram.com/YOUR_INSTAGRAM"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </div>
-
-<br><br>
-
-<!-- ========================= --> <!-- ENDING --> <!-- ========================= --> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=thanks+for+stopping+by.;see+you+somewhere+in+the+commit+history+%3A)"/> <br>
-code • learn • build • repeat
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/> </div> ```
+</div>
