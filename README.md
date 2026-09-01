@@ -298,13 +298,13 @@ You just keep going.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tubagusatha&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tubagusatha&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA"/>
 
 <br><br>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubagusatha&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA"/>
 
 </div>
 
@@ -314,7 +314,7 @@ You just keep going.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tubagusatha&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
