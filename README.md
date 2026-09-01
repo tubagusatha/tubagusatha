@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7C3AED&label=VISITORS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=thanks+for+visiting+my+profile.;feel+free+to+explore+my+repositories.;maybe+you'll+find+something+interesting.;see+you+in+the+next+commit+%F0%9F%91%8B"/>
 
 </div>
 
