@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=tubagusatha&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+
 
 <br><br>
 
