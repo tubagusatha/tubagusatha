@@ -1,26 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=TUBAGUS%20ATHA&fontSize=52&fontColor=ffffff&animation=fadeIn&color=gradient&customColorList=12,14,20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=TB%20%2F%20ATHALLA&fontSize=55&fontColor=ffffff&animation=fadeIn&color=gradient"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=hello%2C+I'm+Athalla+%F0%9F%91%8B;developer+who+likes+to+build+things;web+%7C+mobile+%7C+backend+%7C+security;learning+something+new+every+day;welcome+to+my+GitHub." />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Laravel+%2B+JavaScript+%2B+Tailwind;Mobile+Developer+%7C+Kotlin+%2B+Flutter;I+build+things%2C+break+things%2C+then+fix+them.;Welcome+to+my+little+corner+of+GitHub."/>
 
 <br><br>
 
-<a href="https://github.com/tubagusatha">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=tubagusatha&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7C3AED&label=VISITORS"/>
 
 </div>
 
@@ -28,216 +30,355 @@
 
 # 👋 hey, i'm athalla
 
-I'm **Tubagus Athalla Nibras Islamy**, usually just **TB**.
+I'm **Tubagus Athalla Nibras Islamy** — but most people just call me **TB**.
 
-I'm a developer from Indonesia who enjoys building things with code.
+I'm a developer who likes making things from scratch, especially when an idea starts with:
 
-My main focus is **web development**, especially backend and full-stack projects, but I also enjoy working on mobile applications and experimenting with different technologies.
+> *"kayaknya bisa dibikin deh..."*
 
-I started from learning the basics, then slowly got into frameworks, databases, APIs, mobile development, and information security.
+My main playground is **web development**, but I've also spent time building mobile apps, working with databases, connecting APIs, creating bots, and experimenting with different technologies.
 
-Still learning. Still building. Still breaking things occasionally.  
-And yes, sometimes fixing them takes longer than building them. :)
+I don't really like staying in one stack for too long.
+
+If something looks interesting, I'll probably try to build it.
 
 ---
 
-# 🧩 what i'm into
+# 🧭 a little about me
 
-```text
-WEB DEVELOPMENT        ████████████████████
-BACKEND DEVELOPMENT    ██████████████████░░
-FRONTEND DEVELOPMENT   ████████████████░░░░
-MOBILE DEVELOPMENT     ██████████████░░░░░░
-DATABASES              ████████████████░░░░
-INFORMATION SECURITY   ████████████░░░░░░░░
-UI / UX                ███████████░░░░░░░░░
-```
-
-I enjoy projects where the frontend, backend, database and external services actually have to work together.
+<table>
+<tr>
+<td width="50%">
 
 ### 🎓 education
+
 **CCIT FTUI**
 Information Technology
-Currently developing my skills through programming, software development, databases and other areas of IT.
 
 **Politeknik Negeri Jakarta**
-Continuing my journey in technology and information systems.
+
+Previously studied at:
 
 **SMK IDN Boarding School**
 Pamijahan, Bogor
-This was where I started getting serious about technology and programming.
 
-### 💻 technologies i use
-**languages**
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin,dart&theme=dark"/> </p>
+</td>
 
-**frameworks & development**
-<p align="left"> <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,nodejs,vite,flutter&theme=dark"/> </p>
+<td width="50%">
 
-**databases**
-<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/> </p>
+### 🧑‍💻 what i do
 
-**tools**
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman&theme=dark"/> </p>
+* Web Development
+* Backend Development
+* Frontend Development
+* Mobile Development
+* Database Development
+* API Integration
+* UI Implementation
+* Automation & Bot Integration
 
-### 🚀 projects
+</td>
+</tr>
+</table>
 
-Here are some of the things I've worked on.
+---
 
-**🛍️ Pinalti Company** - E-Commerce Platform
-A Laravel-based e-commerce project built to handle an online shopping workflow.
-*stack: Laravel PHP MySQL Tailwind CSS*
-*worked on: product management, database structure, authentication, backend logic, responsive interface, e-commerce features*
+# 🛠️ my tech stack
 
-**🎓 Student Attendance System** - Laravel + Telegram Bot
-A student attendance system connected with Telegram.
-Instead of keeping everything inside the website, the system communicates with Telegram so attendance information can be delivered automatically.
-*stack: Laravel MySQL Telegram Bot API*
-*worked on: attendance system, database, Telegram integration, backend logic, API communication*
+I don't use every technology here every day.
 
-**📱 MuslimPedia** - Android Application
-An Android application built while exploring mobile development with Kotlin.
-*stack: Kotlin Android Studio*
+Some are things I work with regularly, some I've used in projects, and some are technologies I'm still exploring.
 
-**📖 Quran App** - Flutter Application
-A mobile Quran application created while learning and experimenting with Flutter.
-*stack: Flutter Dart*
+### 💻 languages
 
-**🗂️ Datalistsiswa** - Student Management System
-A Laravel project focused on managing student-related data.
-*stack: Laravel PHP MySQL Bootstrap*
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin,dart&theme=dark"/>
+</p>
 
-**⚡ Futurix** - Frontend Project
-A frontend project where I experimented with modern interfaces, layouts and interactions.
-*stack: HTML CSS JavaScript*
+### 🌐 web
 
-### 🧑‍🏫 experience
-**Mentor / Trainer — Al Ashr School**
-I've had the opportunity to work as a mentor/trainer, helping students understand technology and programming.
-One thing I learned from teaching:
-> knowing how to code and knowing how to explain code are two completely different skills.
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,nodejs,vite&theme=dark"/>
+</p>
 
-### 🏆 achievements
-**🥇 NoSec A+** - Gold Medal
-An achievement from my journey in information security.
+### 📱 mobile
 
-**🌐 Google Developer Groups**
-Participated in GDG-related activities and developer events, giving me the opportunity to learn outside the classroom and meet people interested in technology.
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio,dart&theme=dark"/>
+</p>
 
-**📜 Dicoding**
-Completed various learning programs and certifications while developing my programming skills.
+### 🗄️ database
 
-### 🔐 areas i've explored
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+</p>
 
-My interests aren't limited to making websites.
-I've also explored:
-* 🔐 Information Security
-* 🤖 Artificial Intelligence
-* 🌐 API Integration
-* 🤖 Telegram Bots
-* 🗄️ Database Systems
-* 📱 Android Development
-* 📱 Flutter
-* 🎨 UI Implementation
-* ⚙️ Backend Systems
-* 🌐 Web Applications
+### 🔧 tools
 
-I like understanding how different parts of a system connect.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
+</p>
 
-### 🌍 life outside code
+---
 
-When I'm not coding, I enjoy traveling and exploring new places.
-I've had the chance to visit multiple countries and experience different environments and cultures.
-Coding is a big part of what I do, but I don't want my entire life to happen inside a code editor.
-Sometimes the best way to get a new idea is to close the laptop and go somewhere.
+# 🚀 things i've built
 
-### 📊 github stats
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=tubagusatha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA"/> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=tubagusatha&hide_border=true&theme=tokyonight&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+Not everything I've built is here.
 
-<br><br>
+These are some projects that represent the kind of things I like working on.
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubagusatha&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA"/> </div>
+## 🛒 Pinalti Company
 
-### 📈 contribution activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tubagusatha&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/> </div>
+**E-commerce platform**
 
-### 🐍 my commits apparently feed a snake
-<div align="center"> <img src="https://raw.githubusercontent.com/tubagusatha/tubagusatha/output/github-contribution-grid-snake-dark.svg"/> </div>
+A Laravel-based e-commerce project with a focus on building the complete flow from backend to interface.
 
-### 🔭 currently
-<div align="center"> 
-<table> 
-<tr> 
-<td align="center" width="200">
-💻<br><br>BUILDING<br>web & mobile projects
-</td> 
-<td align="center" width="200">
-🧠<br><br>LEARNING<br>new technologies
-</td> 
-<td align="center" width="200">
-🔐<br><br>EXPLORING<br>security & backend
-</td> 
-<td align="center" width="200">
-🌎<br><br>EXPERIENCING<br>life outside code
-</td> 
-</tr> 
-</table> 
-</div>
-
-### 📌 a few things about me
-```javascript
-const athalla = {
-    name: "Tubagus Athalla Nibras Islamy",
-    nickname: "TB",
-    location: "Indonesia",
-    focus: [
-        "Web Development",
-        "Backend Development",
-        "Mobile Development"
-    ],
-    languages: [
-        "JavaScript",
-        "PHP",
-        "Java",
-        "Kotlin",
-        "Dart"
-    ],
-    favoriteStack: [
-        "Laravel",
-        "Tailwind CSS",
-        "MySQL"
-    ],
-    mobile: [
-        "Kotlin",
-        "Flutter"
-    ],
-    interests: [
-        "Technology",
-        "Information Security",
-        "AI",
-        "Traveling"
-    ],
-    philosophy: "build something, learn something, repeat."
-};
+```text
+Laravel
+PHP
+MySQL
+Tailwind CSS
 ```
 
-### 🌐 let's connect
-<div align="center"> 
-<a href="https://github.com/tubagusatha"> <img src="https://img.shields.io/badge/GitHub-tubagusatha-181717?style=for-the-badge&logo=github"/> </a> 
-<a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/> </a> 
-<a href="https://instagram.com/"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/> </a> 
+Things I worked with:
+
+* Product management
+* Database structure
+* Backend logic
+* Authentication
+* Responsive UI
+* E-commerce functionality
+
+---
+
+## 🎓 Student Attendance System
+
+**Laravel + Telegram Bot**
+
+An attendance system designed to connect a web application with Telegram.
+
+```text
+Laravel
+MySQL
+Telegram Bot
+API Integration
+```
+
+The interesting part wasn't just creating the attendance page.
+
+It was connecting the system with another platform so attendance information could actually be delivered automatically.
+
+---
+
+## 📱 MuslimPedia
+
+**Android application**
+
+A mobile application built with Kotlin while exploring Android development.
+
+```text
+Kotlin
+Android Studio
+```
+
+---
+
+## 📖 Quran App
+
+**Flutter mobile application**
+
+A Quran application built while learning and experimenting with Flutter.
+
+```text
+Flutter
+Dart
+API
+Mobile UI
+```
+
+---
+
+## 🌐 Datalistsiswa
+
+**Student data management system**
+
+A Laravel-based backend project for managing student-related data.
+
+```text
+Laravel
+PHP
+MySQL
+Bootstrap
+```
+
+---
+
+## ⚡ Futurix
+
+A frontend project where I experimented with modern interfaces and visual design.
+
+```text
+HTML
+CSS
+JavaScript
+```
+
+---
+
+# 🧠 beyond coding
+
+Coding isn't the only thing I spend time on.
+
+I've also worked on things involving:
+
+```text
+🤖 Artificial Intelligence
+🔐 Information Security
+🌐 Government / public-service websites
+📱 Mobile applications
+🤖 Telegram automation
+🎨 UI implementation
+🗄️ Database systems
+```
+
+I'm especially interested in the point where different technologies start connecting with each other.
+
+---
+
+# 🏆 experiences & achievements
+
+### 👨‍🏫 Mentor / Trainer
+
+I've had experience as a **mentor/trainer at Al Ashr School**, helping others learn and understand technology.
+
+Teaching someone else is honestly a different kind of challenge.
+
+You don't just need to know the answer.
+
+You need to explain *why* the answer works.
+
+---
+
+### 🥇 NoSec A+
+
+**Gold Medal — NoSec A+**
+
+One of the achievements I'm proud of from my journey in technology and information security.
+
+---
+
+### 🌐 Google Developer Groups
+
+I've also participated in **GDG-related activities/events**, giving me opportunities to see how developers learn, share knowledge, and build communities outside the classroom.
+
+---
+
+### 📜 Dicoding
+
+I've completed multiple learning paths and certifications through **Dicoding**, covering different areas of software development.
+
+---
+
+# 🌍 outside the terminal
+
+I also really enjoy **traveling**.
+
+I've had the opportunity to visit multiple countries and experience places that are completely different from my everyday environment.
+
+Somewhere between writing code and traveling, I realized something:
+
+> building software and traveling actually have something in common.
+
+You never really know everything that's ahead.
+
+You just keep going.
+
+---
+
+# 📊 github activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA"/>
+
+<br><br>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA"/>
+
 </div>
 
+---
+
+# 📈 contribution graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 apparently, i feed snakes with commits
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎯 currently
+
+```text
+learning       → new things
+building       → web & mobile projects
+exploring      → backend systems
+improving      → UI & system architecture
+experimenting  → whatever looks interesting
+```
+
+I don't have a perfectly defined roadmap.
+
+And honestly, I kind of like it that way.
+
+---
+
+# 📫 let's connect
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### thanks for scrolling this far 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=see+you+in+the+next+commit.;keep+building.;keep+learning."/>
+
 <br><br>
 
-<div align="center"> 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=thanks+for+visiting+my+profile.;feel+free+to+explore+my+repositories.;maybe+you'll+find+something+interesting.;see+you+in+the+next+commit+%F0%9F%91%8B"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient"/>
 
-<br><br>
-
-code • learn • build • repeat
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/> 
 </div>
