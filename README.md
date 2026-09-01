@@ -1,74 +1,48 @@
-<!-- Header pake animasi ombak dan warna gradient -->
+<!-- ========================= -->
+<!--        INTRO SECTION      -->
+<!-- ========================= -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Halo!%20Saya%20[Nama%20Kamu]&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20github!&descAlignY=51&descAlign=50" alt="Header" />
-</div>
 
-<!-- Animasi ngetik teks (bisa diubah sesuai role/skill kamu) -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer+💻;UI%2FUX+Enthusiast+🎨;Tukang+Ngoding+Malam+🌙;Tech+Explorer+🚀" alt="Typing SVG" />
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Tubagus%20Athalla&fontSize=55&fontAlignY=38&desc=Developer%20%7C%20Tech%20Explorer%20%7C%20Builder&descAlignY=58&animation=fadeIn"/>
 
-<br/>
-
-<!-- GIF animasi santai biar makin hidup -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnP191sT58/giphy.gif" width="150" alt="Coding GIF" />
-</div>
-
-### 👨‍💻 Sedikit Tentang Saya...
-Halo! 👋 Selamat datang di profil saya. Saya suka banget ngulik hal-hal baru soal teknologi, bikin project yang interaktif, dan kadang nyoba-nyoba *framework* yang lagi hype. Kalau lagi nggak ngoding, biasanya saya main game, nonton, atau sekadar rebahan cari inspirasi.
-
-*   🔭 **Saat ini lagi sibuk:** Ngembangin beberapa *side-project* seru dan terus belajar.
-*   🌱 **Fokus belajar:** React, Next.js, Node.js *(Ganti sesuai tech stack kamu ya!)*.
-*   💬 **Tanya saya tentang:** Apapun deh, kalau saya ngerti pasti dibantu!
-*   ⚡ **Fun fact:** *Error* pas pertama kali di-run itu wajar, kalau langsung jalan malah mencurigakan. 
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<!-- Icon teknologi yang desainnya keren dari skillicons.dev -->
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,html,css,git,github,vscode,figma&perline=6" alt="Tech Stack" />
-  </a>
-</div>
-
----
-
-### 📊 Github Stats
-
-<!-- Statistik GitHub kamu dengan tema dark (tokyonight) biar keliatan pro -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Athalla+%F0%9F%91%8B;I+build+things+for+the+web.;Laravel+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind;Sometimes+mobile.+Sometimes+backend.;Always+learning+something+new." />
+
+<br><br>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME?tab=followers">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827"/>
+</a>
+
 </div>
 
----
 
-### 🌐 Mari Berkoneksi!
+<!-- ========================= -->
+<!--          ABOUT ME         -->
+<!-- ========================= -->
 
-<div align="center">
-  <a href="https://linkedin.com/in/usernamekamu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/usernamekamu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:emailkamu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+## 👋 hey there
 
-<br/>
+I'm **Athalla** — I enjoy turning ideas into things people can actually use.
 
-<!-- Counter untuk nampilin jumlah pengunjung profil kamu -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profil+Dilihat&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+Most of the time you'll find me working with **web development**, exploring backend systems, experimenting with UI, or randomly starting another side project because I thought:
+
+> “this would be cool if it actually existed.”
+
+I like interfaces that feel clean, code that makes sense when I open it again three months later, and projects that teach me something new.
+
+```js
+const athalla = {
+    focus: ["Web Development", "Backend", "Mobile"],
+    currentlyUsing: ["Laravel", "JavaScript", "Tailwind CSS"],
+    database: ["MySQL", "MariaDB"],
+    mobileStuff: ["Kotlin", "Flutter"],
+    learning: "whatever looks interesting this week",
+    coffee: true
+};
