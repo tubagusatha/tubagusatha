@@ -4,7 +4,7 @@
 
 <br>
 
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Laravel+%2B+JavaScript+%2B+Tailwind;Mobile+Developer+%7C+Kotlin+%2B+Flutter;I+build+things%2C+break+things%2C+then+fix+them.;Welcome+to+my+little+corner+of+GitHub."/>
 
 <br><br>
 
