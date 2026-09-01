@@ -13,7 +13,7 @@
 </a>
 
 <a href="YOUR_PORTFOLIO">
-<img src="https://tubagusatha.netlify.app/"/>
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/tubagus-athalla-nibras-islamy-050b62248">
