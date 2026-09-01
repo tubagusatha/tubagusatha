@@ -1,31 +1,74 @@
-<h1 align="center">Hi 👋, I'm Tubagus Athalla</h1>
-<h3 align="center">Im A Backend Developer And Frontend Developer</h3>
+<!-- Header pake animasi ombak dan warna gradient -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Halo!%20Saya%20[Nama%20Kamu]&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20github!&descAlignY=51&descAlign=50" alt="Header" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tubagusatha&label=Profile%20views&color=0e75b6&style=flat" alt="tubagusatha" /> </p>
+<!-- Animasi ngetik teks (bisa diubah sesuai role/skill kamu) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer+💻;UI%2FUX+Enthusiast+🎨;Tukang+Ngoding+Malam+🌙;Tech+Explorer+🚀" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tubagusatha" alt="tubagusatha" /></a> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- GIF animasi santai biar makin hidup -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggCGvnP191sT58/giphy.gif" width="150" alt="Coding GIF" />
+</div>
 
-- 🌱 I’m currently learning **laravel, android, kotlin, flutter**
+### 👨‍💻 Sedikit Tentang Saya...
+Halo! 👋 Selamat datang di profil saya. Saya suka banget ngulik hal-hal baru soal teknologi, bikin project yang interaktif, dan kadang nyoba-nyoba *framework* yang lagi hype. Kalau lagi nggak ngoding, biasanya saya main game, nonton, atau sekadar rebahan cari inspirasi.
 
-- 👨‍💻 All of my projects are available at [tubagusatha.github.io](tubagusatha.github.io)
+*   🔭 **Saat ini lagi sibuk:** Ngembangin beberapa *side-project* seru dan terus belajar.
+*   🌱 **Fokus belajar:** React, Next.js, Node.js *(Ganti sesuai tech stack kamu ya!)*.
+*   💬 **Tanya saya tentang:** Apapun deh, kalau saya ngerti pasti dibantu!
+*   ⚡ **Fun fact:** *Error* pas pertama kali di-run itu wajar, kalau langsung jalan malah mencurigakan. 
 
-- 💬 Ask me about **laravel??**
+---
 
-- 📫 How to reach me **tb.athalla.nibras@gmail.com**
+### 🛠️ Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tubagus athalla nibras islamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tubagus athalla nibras islamy" height="30" width="40" /></a>
-<a href="https://instagram.com/thallatb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thallatb" height="30" width="40" /></a>
-</p>
+<!-- Icon teknologi yang desainnya keren dari skillicons.dev -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,html,css,git,github,vscode,figma&perline=6" alt="Tech Stack" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tubagusatha&show_icons=true&locale=en&layout=compact" alt="tubagusatha" /></p>
+### 📊 Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tubagusatha&show_icons=true&locale=en" alt="tubagusatha" /></p>
+<!-- Statistik GitHub kamu dengan tema dark (tokyonight) biar keliatan pro -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tubagusatha&" alt="tubagusatha" /></p>
+---
+
+### 🌐 Mari Berkoneksi!
+
+<div align="center">
+  <a href="https://linkedin.com/in/usernamekamu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/usernamekamu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Counter untuk nampilin jumlah pengunjung profil kamu -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profil+Dilihat&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
